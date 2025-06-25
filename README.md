@@ -1,3 +1,3 @@
 # Louis Joly - Portfolio
 
-Ce dépôt GitHub Pages héberge mon portfolio professionnel.
+This GitHub Pages repository hosts my professional portfolio website.
